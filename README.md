@@ -15,4 +15,5 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Option 2
+### if cant install this exam try run this files on local server or upload online and run index.html :)
