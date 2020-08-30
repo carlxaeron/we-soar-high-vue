@@ -1,6 +1,6 @@
-# {{ name }}
+# We Soar High
 
-> {{ description }}
+> Exam
 
 ## Build Setup
 
